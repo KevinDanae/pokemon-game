@@ -1,4 +1,6 @@
 # pokemon-game
+Este es un proyecto chico en donde utilizo vue para crear un juego de encontrar el pokemon, este proyecto es realizado
+para entender como funciona Vue y el options API.
 
 ## Project setup
 ```
